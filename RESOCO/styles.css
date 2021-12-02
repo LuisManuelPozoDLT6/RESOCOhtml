@@ -1,0 +1,46 @@
+  .verde {
+    color: #00cc99;
+  }
+
+  .bg-verde {
+    background-color: #00cc99 !important;
+  }
+
+  .btn-success {
+    background-color: #00cc99 !important;
+    border-color: #00cc99 !important;
+  }
+
+  .btn-rosa{
+    background-color: #ff99cc !important;
+    border-color: #ff99cc !important;
+  }
+
+  .rosaPastel{
+    color: #fcf;
+  }
+
+  .bg-rosaPastel{
+    background-color: #fcf !important;
+  }
+
+  .bg-rosa{
+    background-color: #ff99cc !important;
+  }
+
+  .size{
+    height: 100px;
+    width: 115px;
+    object-fit: cover;
+  }
+
+  .imgRedonda {
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
